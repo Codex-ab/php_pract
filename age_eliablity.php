@@ -23,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
     <form method="post" action="">
-        <input type="text" name="name" placeholder="Enter Your name" required>
+        <input type="text" name="name"    placeholder="Enter Your name" required>
         <input type="number" name="age" placeholder="Enter your age" required>
         <input type="submit" value="Check Eligibility">
     </form>
