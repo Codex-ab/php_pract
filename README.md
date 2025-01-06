@@ -1,4 +1,4 @@
-# PHP Practice
+# PHP Practices
 
 ![PHP Logo](https://www.php.net/images/logos/php-logo.svg)
 
