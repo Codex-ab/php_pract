@@ -30,6 +30,20 @@ echo "Hello, World!";
 echo "<h1>Hello world </h1>"
 ?>
 ```
+## Conditional Statement
+```php
+<?php
+$user = "john";
+$age = 21
+if($user == "john" && $age = 21){
+  echo "Happy birthday john";
+}else {
+  echo "Sorry I don't know you";
+}
+echo "Hello, World!";
+echo "<h1>Hello world </h1>"
+?>
+```
 
 Save this code in a file with a `.php` extension, for example, `hello.php`.
 
