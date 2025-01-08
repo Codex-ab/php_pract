@@ -1,4 +1,4 @@
-# PHP Practice
+# PHP Practices
 
 ![PHP Logo](https://www.php.net/images/logos/php-logo.svg)
 
@@ -27,6 +27,7 @@ Here is a simple PHP script to get you started:
 ```php
 <?php
 echo "Hello, World!";
+echo "<h1>Hello world </h1>"
 ?>
 ```
 
